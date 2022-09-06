@@ -1,0 +1,4 @@
+#Wed Sep 07 02:11:18 IST 2022
+base.0=/Users/biyonvenuja/StudioProjects/coffe_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

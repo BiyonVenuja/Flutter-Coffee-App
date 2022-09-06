@@ -1,16 +1,10 @@
-# coffe_app
+# Coffe_app
 
 A new Flutter project.
+<br>
+<br>
+<img width="500px" src="https://user-images.githubusercontent.com/92396164/188755956-6ddf0ece-668f-4cb9-9fd9-42bec13d0f0d.png">
 
-## Getting Started
+Developed By <a href="https://github.com/BiyonVenuja">Biyon Venuja</a>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The UI was Designed by <a href="https://dribbble.com/Adhiari_is">Adhiari Subekti</a> and Uploaded to <a href="https://dribbble.com">Dribble</a> 
